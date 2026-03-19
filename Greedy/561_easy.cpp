@@ -2,7 +2,7 @@
 using namespace std;
 
 /*
-Problem: Array Partition (561)
+Problem: Array Partition (561 easy)
 Topics: Greedy
 TC: 0(nlogn)
 */

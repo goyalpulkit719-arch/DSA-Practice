@@ -2,7 +2,7 @@
 using namespace std;
 
 /*
-Problem: Get Biggest Three Rhombus Sums in a Grid(1878)
+Problem: Get Biggest Three Rhombus Sums in a Grid(1878 Medium)
 Topics: Maths
 TC: 0(n*m*min(m,n)^2)
 */
